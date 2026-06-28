@@ -6,7 +6,7 @@
 
 ## 🧠 Über mich
 
-Ich baue am liebsten Dinge, die wirklich benutzt werden — vom schlanken Frontend bis zur durchdachten Datenbankstruktur. Dabei arbeite ich gerne mit einem vielfältigen Stack und scheue mich nicht vor Sprachen abseits des JavaScript-Ökosystems.
+Ich entwickle Web-Anwendungen, die tatsächlich genutzt werden — vom Frontend bis zur Datenbank. Mein Schwerpunkt liegt auf JavaScript/TypeScript-Ökosystem, aber ich greife gerne auch auf Sprachen wie Lua zurück wenn's passt. Sauberer Code, verständliche Architektur und Performanz sind mir wichtiger als Hypes.
 
 ```typescript
 const yosuke = {
@@ -62,12 +62,14 @@ const yosuke = {
 
 ---
 
+---
+
 ## ✨ Aktuell so
 
-- 🔭 Immer am Schrauben an neuen Side-Projects
-- 🌱 Tiefer eintauchen in **TypeScript**-Patterns und sauberer Architektur
-- 💬 Frag mich alles über **Vue/React**, **Node.js** oder warum MariaDB > MySQL ist
-- ⚡ Fun Fact: guter Code ist wie guter Kaffee — schwarz, heiß und ohne Schnörkel
+- 🔭 An Side-Projects arbeiten, die irgendwann mal fertig werden
+- 🌱 Tiefer in **TypeScript** einsteigen und weniger `any` schreiben
+- 💬 Frag mich gerne zu **Vue/React**, **Node.js** oder Datenbank-Kram
+- ⚡ Schreibe am liebsten Code, der auch nach 3 Monaten noch lesbar ist
 
 ---
 
@@ -75,7 +77,7 @@ const yosuke = {
 
 <p align="left">
   <a href="https://github.com/yosuke-wtf"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:deine@email.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://discord.com/users/yosuke.ae"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 ---
