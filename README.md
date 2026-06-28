@@ -2,10 +2,6 @@
 
 ---
 
-## 🧠 Über mich
-
-Ich bin ein Full-Stack Developer. Ich schreib am liebsten Web-Apps. Next.js, React und Vue fürs Frontend, Node.js und MariaDB wenn's Backend-seitig wird, und ab und zu Lua wenn's nicht JavaScript sein muss. Kein Framework-Fanatiker, ich nutz was zum Projekt passt.
-
 ```
 const yosuke = {
   pronouns: "he/him",
