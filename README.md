@@ -1,4 +1,4 @@
-# Hey, ich bin Yosuke 👋
+# Hey, I'm Yosuke 👋
 
 ---
 
@@ -8,7 +8,7 @@ const yosuke = {
   location: "Tokyo",
   frontend: ["Next.js", "React", "Vue.js", "TypeScript"],
   backend: ["Node.js"],
-  sonst: ["Lua", "HTML", "CSS", "MariaDB"],
+  misc: ["Lua", "HTML", "CSS", "MariaDB"],
 };
 ```
 
@@ -45,7 +45,7 @@ const yosuke = {
 
 ---
 
-## 📫 Wie du mich erreichst
+## 📫 Contact
 
 <p align="left">
   <a href="https://github.com/yosuke-wtf"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -56,8 +56,4 @@ const yosuke = {
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yosuke-wtf&color=tokyonight&style=flat-square" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <sub>„Keep it simple, ship it."</sub>
 </p>
