@@ -1,25 +1,18 @@
 # Hey, ich bin Yosuke 👋
 
-**Full-Stack Developer** mit Fokus auf moderne Web-Technologien, sauberen Code und Performanz.
-
 ---
 
 ## 🧠 Über mich
 
-Ich entwickle Web-Anwendungen, die tatsächlich genutzt werden — vom Frontend bis zur Datenbank. Mein Schwerpunkt liegt auf JavaScript/TypeScript-Ökosystem, aber ich greife gerne auch auf Sprachen wie Lua zurück wenn's passt. Sauberer Code, verständliche Architektur und Performanz sind mir wichtiger als Hypes.
+Ich bin ein Full-Stack Developer. Ich schreib am liebsten Web-Apps. Next.js, React und Vue fürs Frontend, Node.js und MariaDB wenn's Backend-seitig wird, und ab und zu Lua wenn's nicht JavaScript sein muss. Kein Framework-Fanatiker, ich nutz was zum Projekt passt.
 
-```typescript
+```
 const yosuke = {
   pronouns: "he/him",
-  location: "Germany 🇩🇪",
-  currently: ["building cool web stuff", "learning new things every day"],
-  tech: {
-    frontend: ["Next.js", "React", "Vue.js", "TypeScript"],
-    backend: ["Node.js"],
-    scripting: ["Lua"],
-    web: ["HTML", "CSS"],
-    database: ["MariaDB"],
-  },
+  location: "Tokyo",
+  frontend: ["Next.js", "React", "Vue.js", "TypeScript"],
+  backend: ["Node.js"],
+  sonst: ["Lua", "HTML", "CSS", "MariaDB"],
 };
 ```
 
@@ -53,23 +46,6 @@ const yosuke = {
 </p>
 
 ---
-
-## 🏆 Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yosuke-wtf&theme=tokyonight&no-frame=true&no-bg=true&column=4" alt="Trophies"/>
-</p>
-
----
-
----
-
-## ✨ Aktuell so
-
-- 🔭 An Side-Projects arbeiten, die irgendwann mal fertig werden
-- 🌱 Tiefer in **TypeScript** einsteigen und weniger `any` schreiben
-- 💬 Frag mich gerne zu **Vue/React**, **Node.js** oder Datenbank-Kram
-- ⚡ Schreibe am liebsten Code, der auch nach 3 Monaten noch lesbar ist
 
 ---
 
